@@ -1,1 +1,1 @@
-# paramaribo-info-2026
+# Paramaribo Info 2026
