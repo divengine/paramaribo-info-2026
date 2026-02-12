@@ -245,7 +245,7 @@
 | Bank | Currency | Average | Maximum | Minimum |
 |------|----------|---------|---------|---------|
 | Central Money Exchange | EUR | 44.00 | 44.15 | 43.85 |
-| Central Money Exchange | USD | 37.85 | 37.90 | 37.80 |
+| Central Money Exchange | USD | 37.84 | 37.90 | 37.80 |
 | DSB | EUR | 44.34 | 44.66 | 44.21 |
 | DSB | EUR/USD | 1.16 | 1.17 | 1.16 |
 | DSB | USD | 37.43 | 37.48 | 37.32 |
