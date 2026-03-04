@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-03-04T11:48:45.115257-03:00",
+  "url": "https://www.finabanknv.com/service-desk/koersen-rates/",
+  "method": "GET",
+  "headers": {
+    "User-Agent": "Mozilla/5.0",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive"
+  },
+  "body": "None",
+  "ip_local": "127.0.1.1",
+  "traceroute": "traceroute to www.finabanknv.com (216.144.202.240), 15 hops max\n  1   157.137.147.170  0.105ms  0.108ms  0.110ms \n  2   4.18.104.126  0.562ms  0.424ms  0.412ms \n  3   4.18.104.125  1.964ms  1.087ms  1.219ms \n  4   4.68.110.34  1.549ms  1.410ms  1.478ms \n  5   184.104.196.170  29.618ms  30.481ms  * \n  6   *  184.105.60.189  45.499ms  22.279ms \n  7   184.105.249.1  42.358ms  42.046ms  42.080ms \n  8   184.104.196.50  44.027ms  44.305ms  * \n  9   184.105.39.93  50.554ms  50.503ms  50.396ms \n 10   216.66.73.166  50.996ms  51.131ms  50.983ms \n 11   209.142.255.186  51.316ms  51.279ms  52.664ms \n 12   *  *  * \n 13   *  *  * \n 14   *  *  * \n 15   *  *  * \n"
+}
