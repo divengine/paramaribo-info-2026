@@ -1,0 +1,64 @@
+# Central Money Exchange Rates Snapshot 2026-03-12 13:09:49
+## Request Details
+
+| Property | Value |
+|----------|-------|
+| URL | https://www.cme.sr/Home/GetTodaysExchangeRates/?BusinessDate=2026-03-12 |
+| Method | POST |
+| Timestamp | 2026-03-12T13:09:49.584906-03:00 |
+| Local IP | 127.0.1.1 |
+    
+## Request headers table
+
+| Header | Value |
+|--------|-------|
+| User-Agent | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 |
+| Accept | */* |
+| Accept-Language | es-US,es-419;q=0.9,es;q=0.8,en;q=0.7,nl;q=0.6 |
+| Accept-Encoding | gzip, deflate |
+| Origin | https://www.cme.sr |
+| Referer | https://www.cme.sr/ |
+| X-Requested-With | XMLHttpRequest |
+| Cache-Control | no-cache |
+| Pragma | no-cache |
+| Content-Length | 0 |
+
+    
+## Response headers table
+| Header | Value |
+|--------|-------|
+| Date | Thu, 12 Mar 2026 16:20:59 GMT |
+| Content-Type | application/json; charset=utf-8 |
+| Transfer-Encoding | chunked |
+| Connection | keep-alive |
+| Cache-Control | private |
+| Server | cloudflare |
+| x-aspnetmvc-version | 5.2 |
+| x-aspnet-version | 4.0.30319 |
+| x-powered-by | ASP.NET |
+| cf-cache-status | DYNAMIC |
+| Nel | {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800} |
+| Report-To | {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=IkyEEXluQT1XdSy0wQb7Lc6pkrixhqEtPcLW2hBSgImuJhIbNZYH6QcInAjfeeXvqnkHF9T4ea3t%2FGAg1FeAUCDpCID01czmQMc%3D"}]} |
+| Content-Encoding | gzip |
+| CF-RAY | 9db4211b89427c6e-LAX |
+| alt-svc | h3=":443"; ma=86400 |
+
+## Traceroute 
+
+```
+traceroute to www.cme.sr (172.67.142.118), 15 hops max
+  1   157.137.147.92  0.331ms  0.195ms  0.147ms 
+  2   140.204.28.32  23.964ms  23.088ms  25.225ms 
+  3   *  140.204.28.33  20.184ms  * 
+  4   141.101.72.27  10.855ms  10.836ms  11.274ms 
+  5   172.67.142.118  10.779ms  10.535ms  10.551ms 
+
+```
+
+
+## Table of rates
+
+| Currency | Buy Rate | Sell Rate |
+|----------|----------|-----------|
+| USD | 37.55 | 37.69 |
+| EUR | 43.00 | 43.75 |
