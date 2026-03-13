@@ -249,7 +249,7 @@
 | DSB | EUR | 43.15 | 43.83 | 42.68 |
 | DSB | EUR/USD | 1.14 | 1.16 | 1.13 |
 | DSB | USD | 37.03 | 37.13 | 36.94 |
-| Finabank | EUR | 43.40 | 43.87 | 43.06 |
+| Finabank | EUR | 43.39 | 43.87 | 43.06 |
 | Finabank | USD | 37.48 | 37.68 | 37.25 |
 | Hakrinbank | EUR | 43.24 | 43.85 | 42.80 |
 | Hakrinbank | USD | 37.32 | 37.40 | 37.20 |
