@@ -1,0 +1,20 @@
+{
+  "timestamp": "2026-03-21T13:49:11.083995-03:00",
+  "url": "https://www.cme.sr/Home/GetTodaysExchangeRates/?BusinessDate=2026-03-21",
+  "method": "POST",
+  "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "Accept": "*/*",
+    "Accept-Language": "es-US,es-419;q=0.9,es;q=0.8,en;q=0.7,nl;q=0.6",
+    "Accept-Encoding": "gzip, deflate",
+    "Origin": "https://www.cme.sr",
+    "Referer": "https://www.cme.sr/",
+    "X-Requested-With": "XMLHttpRequest",
+    "Cache-Control": "no-cache",
+    "Pragma": "no-cache",
+    "Content-Length": "0"
+  },
+  "body": "None",
+  "ip_local": "127.0.1.1",
+  "traceroute": "traceroute to www.cme.sr (104.21.95.5), 15 hops max\n  1   157.137.146.84  0.213ms  0.075ms  0.106ms \n  2   4.18.104.126  0.734ms  0.554ms  0.403ms \n  3   4.18.104.125  1.857ms  1.189ms  1.060ms \n  4   4.69.209.50  14.430ms  14.391ms  14.394ms \n  5   4.39.234.170  16.312ms  21.656ms  15.938ms \n  6   104.21.95.5  15.442ms  15.312ms  15.339ms \n"
+}
