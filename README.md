@@ -1,4 +1,4 @@
-# Paramaribo Info 2025
+# Paramaribo Info 2026
 
 ## Latest Exchange Rates
 
