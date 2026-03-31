@@ -244,7 +244,7 @@
 
 | Bank | Currency | Average | Maximum | Minimum |
 |------|----------|---------|---------|---------|
-| Central Money Exchange | EUR | 42.61 | 43.00 | 42.00 |
+| Central Money Exchange | EUR | 42.60 | 43.00 | 42.00 |
 | Central Money Exchange | USD | 37.55 | 37.65 | 37.50 |
 | DSB | EUR | 42.80 | 43.83 | 42.33 |
 | DSB | EUR/USD | 1.13 | 1.16 | 1.12 |
@@ -253,7 +253,7 @@
 | Finabank | USD | 37.37 | 37.68 | 37.21 |
 | Hakrinbank | EUR | 42.91 | 43.85 | 42.45 |
 | Hakrinbank | USD | 37.29 | 37.40 | 37.20 |
-| VCB Bank | EUR | 42.73 | 43.70 | 42.30 |
+| VCB Bank | EUR | 42.72 | 43.70 | 42.30 |
 | VCB Bank | USD | 36.94 | 37.10 | 36.90 |
 
 
