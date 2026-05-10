@@ -1,0 +1,63 @@
+# VCB Bank Rates Snapshot 2026-05-09 22:45:20
+## Request Details
+
+| Property | Value |
+|----------|-------|
+| URL | https://vcbbank.sr/ |
+| Method | GET |
+| Timestamp | 2026-05-09T22:45:20.255394-03:00 |
+| Local IP | 127.0.1.1 |
+    
+## Request headers table
+
+| Header | Value |
+|--------|-------|
+| User-Agent | Mozilla/5.0 |
+| Accept-Encoding | gzip, deflate |
+| Accept | */* |
+| Connection | keep-alive |
+
+    
+## Response headers table
+| Header | Value |
+|--------|-------|
+| Server | nginx/1.29.8 |
+| Date | Sun, 10 May 2026 01:45:22 GMT |
+| Content-Type | text/html; charset=UTF-8 |
+| Transfer-Encoding | chunked |
+| Connection | keep-alive |
+| Link | <https://vcbbank.sr/wp-json/>; rel="https://api.w.org/", <https://vcbbank.sr/wp-json/wp/v2/pages/9>; rel="alternate"; title="JSON"; type="application/json", <https://vcbbank.sr/>; rel=shortlink |
+| Content-Encoding | gzip |
+| Vary | Accept-Encoding |
+| Set-Cookie | quform_session_d40e50b3312f0c80a90745170d16e79c=Q8MgT6ieOKzfLef30kl1HV7nYPov7JI23UYaH2yD; path=/; secure; httponly; samesite=None |
+| X-Proxy-Cache | BYPASS |
+
+## Traceroute 
+
+```
+traceroute to vcbbank.sr (23.235.204.26), 15 hops max
+  1   157.137.146.160  0.291ms  0.140ms  0.188ms 
+  2   4.18.104.126  9.938ms  18.788ms  12.874ms 
+  3   4.18.104.125  1.139ms  1.405ms  1.319ms 
+  4   4.69.219.110  74.021ms  57.021ms  57.281ms 
+  5   198.46.80.118  63.103ms  63.157ms  63.064ms 
+  6   198.46.80.117  57.034ms  56.970ms  56.996ms 
+  7   *  198.46.80.14  54.404ms  * 
+  8   104.193.140.83  57.066ms  56.925ms  57.005ms 
+  9   *  *  * 
+ 10   *  *  * 
+ 11   *  *  * 
+ 12   *  *  * 
+ 13   *  *  * 
+ 14   *  *  * 
+ 15   *  *  * 
+
+```
+
+
+## Table of rates
+
+| Currency | Buy Rate | Sell Rate |
+|----------|----------|-----------|
+| USD | 36.85 | 37.60 |
+| EUR | 43.40 | 44.25 |
