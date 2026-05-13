@@ -212,7 +212,7 @@
 | Central Money Exchange | USD | 37.47 | 37.50 | 37.45 |
 | DSB | EUR | 43.24 | 43.38 | 43.17 |
 | DSB | EUR/USD | 1.15 | 1.15 | 1.15 |
-| DSB | USD | 36.87 | 36.89 | 36.80 |
+| DSB | USD | 36.86 | 36.89 | 36.80 |
 | Finabank | EUR | 43.49 | 43.63 | 43.45 |
 | Finabank | USD | 37.21 | 37.22 | 37.12 |
 | VCB Bank | EUR | 43.29 | 43.40 | 43.15 |
