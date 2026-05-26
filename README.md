@@ -216,7 +216,7 @@
 | Finabank | EUR | 43.15 | 43.63 | 42.67 |
 | Finabank | USD | 37.02 | 37.22 | 36.86 |
 | VCB Bank | EUR | 43.04 | 43.40 | 42.65 |
-| VCB Bank | USD | 36.80 | 36.90 | 36.70 |
+| VCB Bank | USD | 36.79 | 36.90 | 36.70 |
 
 
 ## About
