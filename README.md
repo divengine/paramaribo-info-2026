@@ -208,14 +208,14 @@
 
 | Bank | Currency | Average | Maximum | Minimum |
 |------|----------|---------|---------|---------|
-| Central Money Exchange | EUR | 42.68 | 43.00 | 42.30 |
+| Central Money Exchange | EUR | 42.67 | 43.00 | 42.30 |
 | Central Money Exchange | USD | 37.43 | 37.50 | 37.35 |
 | DSB | EUR | 42.96 | 43.38 | 42.52 |
 | DSB | EUR/USD | 1.14 | 1.15 | 1.14 |
 | DSB | USD | 36.78 | 36.89 | 36.67 |
 | Finabank | EUR | 43.10 | 43.63 | 42.67 |
 | Finabank | USD | 37.00 | 37.22 | 36.86 |
-| VCB Bank | EUR | 43.00 | 43.40 | 42.65 |
+| VCB Bank | EUR | 42.99 | 43.40 | 42.65 |
 | VCB Bank | USD | 36.78 | 36.90 | 36.70 |
 
 
