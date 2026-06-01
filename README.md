@@ -208,6 +208,11 @@
 
 | Bank | Currency | Average | Maximum | Minimum |
 |------|----------|---------|---------|---------|
+| Central Money Exchange | EUR | 42.30 | 42.30 | 42.30 |
+| Central Money Exchange | USD | 37.35 | 37.35 | 37.35 |
+| DSB | EUR | 42.73 | 42.73 | 42.73 |
+| DSB | EUR/USD | 1.14 | 1.14 | 1.14 |
+| DSB | USD | 36.70 | 36.70 | 36.70 |
 | VCB Bank | EUR | 42.75 | 42.75 | 42.75 |
 | VCB Bank | USD | 36.70 | 36.70 | 36.70 |
 
