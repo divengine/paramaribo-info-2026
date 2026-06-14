@@ -1,0 +1,65 @@
+# Finabank Rates Snapshot 2026-06-14 09:51:20
+## Request Details
+
+| Property | Value |
+|----------|-------|
+| URL | https://www.finabanknv.com/service-desk/koersen-rates/ |
+| Method | GET |
+| Timestamp | 2026-06-14T09:51:20.059807-03:00 |
+| Local IP | 127.0.1.1 |
+    
+## Request headers table
+
+| Header | Value |
+|--------|-------|
+| User-Agent | Mozilla/5.0 |
+| Accept-Encoding | gzip, deflate |
+| Accept | */* |
+| Connection | keep-alive |
+
+    
+## Response headers table
+| Header | Value |
+|--------|-------|
+| Cache-Control | private |
+| Content-Type | text/html; charset=utf-8 |
+| Server | Microsoft-IIS/10.0 |
+| X-UA-Compatible | IE=Edge |
+| X-Content-Type-Options | nosniff |
+| X-Frame-Options | SAMEORIGIN |
+| Content-Security-Policy | default-src 'self';  script-src 'self' 'unsafe-inline' 'unsafe-eval' www.google-analytics.com *.googletagmanager.com ajax.googleapis.com maps.googleapis.com connect.facebook.net https://static.widget.trengo.eu https://stats.pusher.com/timeline/v2/jsonp/1 https://cdn.widget.trengo.eu; style-src 'self'  'unsafe-inline'; style-src-elem 'self' 'unsafe-inline' stackpath.bootstrapcdn.com fonts.googleapis.com https://fonts.bunny.net;  font-src 'self' https://fonts.gstatic.com https://maxcdn.bootstrapcdn.com https://cdnjs.cloudflare.com https://fonts.bunny.net https://cdn.jsdelivr.net https://stackpath.bootstrapcdn.com/;  img-src data:  'self' https://www.google-analytics.com static.xx.fbcdn.net www.facebook.com trengo.s3.eu-central-1.amazonaws.com www.google.com www.google.sr maps.gstatic.com *.googleapis.com *.ggpht.com https://*.giphy.com https://s3.eu-central-1.amazonaws.com https://trengo.s3.eu-central-1.amazonaws.com; media-src 'self' https://static.widget.trengo.eu;  connect-src 'self' www.google-analytics.com *.googletagmanager.com maps.googleapis.com stats.g.doubleclick.net wss://ws-eu.pusher.com sockjs-eu.pusher.com https://api.widget.trengo.eu https://gkkmgz0bw7.execute-api.eu-central-1.amazonaws.com wss://ws-eu.pusher.com https://ipinfo.io https://cdn.widget.trengo.eu ;  frame-src 'self' www.youtube.com www.google.com |
+| Referrer-Policy | strict-origin-when-cross-origin |
+| Permissions-Policy | fullscreen=() |
+| Strict-Transport-Security | max-age=31536000; includeSubDomains; preload; |
+| Date | Sun, 14 Jun 2026 13:03:27 GMT |
+| Content-Length | 15526 |
+
+## Traceroute 
+
+```
+traceroute to www.finabanknv.com (209.142.202.240), 15 hops max
+  1   157.137.146.228  0.182ms  0.117ms  0.133ms 
+  2   62.115.13.10  0.742ms  0.674ms  0.448ms 
+  3   62.115.13.9  1.228ms  1.246ms  1.247ms 
+  4   62.115.125.53  1.705ms  1.596ms  1.566ms 
+  5   62.115.125.54  23.426ms  23.334ms  23.578ms 
+  6   62.115.140.32  40.963ms  41.090ms  41.235ms 
+  7   62.115.143.236  41.140ms  41.266ms  41.056ms 
+  8   62.115.137.132  52.196ms  52.179ms  52.107ms 
+  9   62.115.136.200  60.627ms  60.598ms  60.592ms 
+ 10   62.115.137.149  77.102ms  76.012ms  77.467ms 
+ 11   62.115.141.188  78.640ms  75.794ms  77.805ms 
+ 12   62.115.142.59  74.951ms  74.982ms  74.925ms 
+ 13   62.115.208.215  75.334ms  75.060ms  75.078ms 
+ 14   209.142.255.184  76.544ms  75.379ms  76.102ms 
+ 15   *  *  * 
+
+```
+
+
+## Table of rates
+
+| Currency | Buy Rate | Sell Rate |
+|----------|----------|-----------|
+| USD | 37.114 | 37.583 |
+| EUR | 42.833 | 43.521 |
