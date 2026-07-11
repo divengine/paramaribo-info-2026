@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-07-11T19:19:05.685024-03:00",
+  "url": "https://vcbbank.sr/",
+  "method": "GET",
+  "headers": {
+    "User-Agent": "Mozilla/5.0",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive"
+  },
+  "body": "None",
+  "ip_local": "127.0.1.1",
+  "traceroute": "traceroute to vcbbank.sr (23.235.204.26), 15 hops max\n  1   157.137.146.220  0.213ms  0.127ms  0.119ms \n  2   209.120.142.218  1.347ms  1.114ms  1.135ms \n  3   209.120.142.217  1.473ms  1.404ms  1.417ms \n  4   213.200.112.238  49.503ms  49.543ms  49.645ms \n  5   198.46.80.117  52.423ms  52.412ms  52.528ms \n  6   198.46.80.117  49.737ms  49.693ms  49.944ms \n  7   *  *  * \n  8   104.193.140.83  52.208ms  53.427ms  52.173ms \n  9   *  *  * \n 10   *  *  * \n 11   *  *  * \n 12   *  *  * \n 13   *  *  * \n 14   *  *  * \n 15   *  *  * \n"
+}
