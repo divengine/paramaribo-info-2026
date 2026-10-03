@@ -179,8 +179,8 @@
 | DSB | USD | 37.16 | 37.17 | 37.13 |
 | Finabank | EUR | 42.46 | 42.50 | 42.40 |
 | Finabank | USD | 37.55 | 37.55 | 37.55 |
-| VCB Bank | EUR | 42.39 | 42.50 | 42.25 |
-| VCB Bank | USD | 37.39 | 37.40 | 37.35 |
+| VCB Bank | EUR | 42.38 | 42.50 | 42.25 |
+| VCB Bank | USD | 37.38 | 37.40 | 37.35 |
 
 
 ## About
