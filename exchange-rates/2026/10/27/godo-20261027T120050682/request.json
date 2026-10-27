@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-10-27T12:00:50.682799-03:00",
+  "url": "https://www.godobanknv.com/",
+  "method": "GET",
+  "headers": {
+    "User-Agent": "Mozilla/5.0",
+    "Accept-Encoding": "gzip, deflate, zstd",
+    "Accept": "*/*",
+    "Connection": "keep-alive"
+  },
+  "body": "None",
+  "ip_local": "127.0.1.1",
+  "traceroute": "traceroute to www.godobanknv.com (65.181.116.200), 10 hops max, 60 byte packets\n 1  *\n 2  *\n 3  *\n 4  *\n 5  *\n 6  *\n 7  *\n 8  *\n 9  *\n10  *\n"
+}
