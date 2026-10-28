@@ -6,7 +6,7 @@
 
 | Bank | USD Buy | USD Sell | EUR Buy | EUR Sell |
 |------|---------|----------|---------|----------|
-| Central Bank | 37.45 | 37.60 | 41.08 | 41.91 |
+| Central Bank | 37.46 | 37.56 | 41.77 | 41.85 |
 | Central Money Exchange | 37.50 | 37.80 | 41.00 | 41.95 |
 | DSB | 37.14 | 37.90 | 41.60 | 42.45 |
 | Finabank | 37.38 | 37.91 | 41.69 | 42.35 |
@@ -151,7 +151,7 @@
 **Central Bank**
 (min 0.00 – max 43.60 SRD)
 ```
-43.60 ┤                                                                   █        
+43.60 ┤                                                                   █       █
       │                                                                 ███████████
 34.88 ┤                                                                 ███████████
       │                                                                 ███████████
@@ -280,9 +280,9 @@
 
 | Bank | Currency | Average | Maximum | Minimum |
 |------|----------|---------|---------|---------|
-| Central Bank | EUR | 41.52 | 41.72 | 41.05 |
+| Central Bank | EUR | 41.52 | 41.77 | 41.05 |
 | Central Bank | USD | 37.44 | 37.50 | 37.42 |
-| Central Money Exchange | EUR | 41.35 | 41.90 | 41.00 |
+| Central Money Exchange | EUR | 41.34 | 41.90 | 41.00 |
 | Central Money Exchange | USD | 37.50 | 37.50 | 37.50 |
 | DSB | EUR | 41.66 | 42.13 | 41.53 |
 | DSB | EUR/USD | 1.10 | 1.11 | 1.10 |
