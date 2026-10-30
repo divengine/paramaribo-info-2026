@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-10-29T21:01:11.819617-03:00",
+  "url": "https://www.dsb.sr/",
+  "method": "GET",
+  "headers": {
+    "User-Agent": "Mozilla/5.0",
+    "Accept-Encoding": "gzip, deflate, zstd",
+    "Accept": "*/*",
+    "Connection": "keep-alive"
+  },
+  "body": "None",
+  "ip_local": "127.0.1.1",
+  "traceroute": "traceroute to www.dsb.sr (2600:9000:27a7:8a00:6:36d5:fd00:93a1), 10 hops max, 80 byte packets\n 1  *\n 2  *\n 3  *\n 4  *\n 5  *\n 6  *\n 7  *\n 8  *\n 9  *\n10  *\n"
+}
