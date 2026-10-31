@@ -282,7 +282,7 @@
 |------|----------|---------|---------|---------|
 | Central Bank | EUR | 41.44 | 41.77 | 41.03 |
 | Central Bank | USD | 37.44 | 37.50 | 37.41 |
-| Central Money Exchange | EUR | 41.31 | 41.90 | 40.80 |
+| Central Money Exchange | EUR | 41.30 | 41.90 | 40.80 |
 | Central Money Exchange | USD | 37.50 | 37.50 | 37.50 |
 | DSB | EUR | 41.63 | 42.13 | 41.40 |
 | DSB | EUR/USD | 1.10 | 1.11 | 1.09 |
