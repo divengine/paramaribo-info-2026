@@ -280,6 +280,13 @@
 
 | Bank | Currency | Average | Maximum | Minimum |
 |------|----------|---------|---------|---------|
+| Central Money Exchange | EUR | 40.80 | 40.80 | 40.80 |
+| Central Money Exchange | USD | 37.50 | 37.50 | 37.50 |
+| DSB | EUR | 41.40 | 41.40 | 41.40 |
+| DSB | EUR/USD | 1.09 | 1.09 | 1.09 |
+| DSB | USD | 37.15 | 37.15 | 37.15 |
+| Godo | EUR | 41.58 | 41.58 | 41.58 |
+| Godo | USD | 37.39 | 37.39 | 37.39 |
 | VCB Bank | EUR | 41.60 | 41.60 | 41.60 |
 | VCB Bank | USD | 37.35 | 37.35 | 37.35 |
 
