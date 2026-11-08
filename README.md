@@ -280,7 +280,7 @@
 
 | Bank | Currency | Average | Maximum | Minimum |
 |------|----------|---------|---------|---------|
-| Central Bank | EUR | 41.12 | 41.22 | 40.89 |
+| Central Bank | EUR | 41.13 | 41.22 | 40.89 |
 | Central Bank | USD | 37.40 | 37.45 | 37.38 |
 | Central Money Exchange | EUR | 40.80 | 41.00 | 40.80 |
 | Central Money Exchange | USD | 37.46 | 37.50 | 37.40 |
