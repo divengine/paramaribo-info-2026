@@ -6,13 +6,13 @@
 
 | Bank | USD Buy | USD Sell | EUR Buy | EUR Sell |
 |------|---------|----------|---------|----------|
-| Central Bank | 37.37 | 37.42 | 41.24 | 41.76 |
+| Central Bank | 37.40 | 37.54 | 40.87 | 41.41 |
 | Central Money Exchange | 37.40 | 37.70 | 40.80 | 41.85 |
 | DSB | 37.03 | 37.79 | 41.08 | 41.93 |
 | Finabank | 37.35 | 37.76 | 41.46 | 42.36 |
 | Godo | 37.33 | 37.76 | 41.46 | 42.36 |
 | Hakrinbank | 37.50 | 37.76 | 41.50 | 42.36 |
-| VCB Bank | 37.30 | 37.80 | 41.60 | 42.40 |
+| VCB Bank | 37.25 | 37.75 | 41.55 | 42.35 |
 
 
 ## Trend Graphs (90 Days)
@@ -280,7 +280,7 @@
 
 | Bank | Currency | Average | Maximum | Minimum |
 |------|----------|---------|---------|---------|
-| Central Bank | EUR | 41.15 | 41.31 | 40.89 |
+| Central Bank | EUR | 41.15 | 41.31 | 40.87 |
 | Central Bank | USD | 37.39 | 37.45 | 37.37 |
 | Central Money Exchange | EUR | 40.85 | 41.00 | 40.80 |
 | Central Money Exchange | USD | 37.43 | 37.50 | 37.40 |
@@ -294,7 +294,7 @@
 | Hakrinbank | EUR | 41.68 | 41.80 | 41.50 |
 | Hakrinbank | USD | 37.30 | 37.50 | 37.25 |
 | VCB Bank | EUR | 41.60 | 41.65 | 41.50 |
-| VCB Bank | USD | 37.32 | 37.35 | 37.30 |
+| VCB Bank | USD | 37.32 | 37.35 | 37.25 |
 
 
 ## About
