@@ -1,0 +1,73 @@
+# DSB Rates Snapshot 2026-11-16 12:00:44
+## Request Details
+
+| Property | Value |
+|----------|-------|
+| URL | https://www.dsb.sr/ |
+| Method | GET |
+| Timestamp | 2026-11-16T12:00:44.402346-03:00 |
+| Local IP | 127.0.1.1 |
+    
+## Request headers table
+
+| Header | Value |
+|--------|-------|
+| User-Agent | Mozilla/5.0 |
+| Accept-Encoding | gzip, deflate, zstd |
+| Accept | */* |
+| Connection | keep-alive |
+
+    
+## Response headers table
+| Header | Value |
+|--------|-------|
+| Server | CloudFront |
+| Content-Type | text/html; charset=utf-8 |
+| Transfer-Encoding | chunked |
+| Connection | keep-alive |
+| Last-Modified | Mon, 16 Nov 2026 11:39:54 GMT |
+| Content-Encoding | gzip |
+| Date | Mon, 16 Nov 2026 15:01:32 GMT |
+| Cache-Control | max-age=300,s-maxage=300 |
+| ETag | W/"61bf16340ad5084559d94d39f4d934e8" |
+| Vary | Accept-Encoding |
+| X-Cache | RefreshHit from cloudfront |
+| Via | 1.1 c64a2abe0ff2c97b1b9494551c4e024a.cloudfront.net (CloudFront) |
+| X-Amz-Cf-Pop | MIA50-P4 |
+| X-Amz-Cf-Id | eGEaqa9G1RGjR8CXmg7PoXFTnAS2yK6WNQ54BpJtKolQ8It6nsa1Sw== |
+| X-XSS-Protection | 1; mode=block |
+| X-Frame-Options | DENY |
+| Referrer-Policy | no-referrer |
+| Content-Security-Policy | default-src https: data:; script-src 'self' 'unsafe-inline' https://*.googletagmanager.com; style-src 'self' 'unsafe-inline' data:; img-src 'self' data: https: https://*.google-analytics.com https://*.googletagmanager.com; connect-src * https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com; object-src 'none' |
+| X-Content-Type-Options | nosniff |
+| Strict-Transport-Security | max-age=31536000 |
+| Cross-Origin-Embedder-Policy | unsafe-none |
+| Cross-Origin-Opener-Policy | same-origin |
+| Cross-Origin-Resource-Policy | same-origin |
+| Permissions-Policy | accelerometer=(),autoplay=(),camera=(),display-capture=(),document-domain=(),encrypted-media=(),fullscreen=(),geolocation=(),gyroscope=(),magnetometer=(),microphone=(),midi=(),payment=(),picture-in-picture=(),publickey-credentials-get=(),screen-wake-lock=(),sync-xhr=(self),usb=(),web-share=(),xr-spatial-tracking=() |
+
+## Traceroute 
+
+```
+traceroute to www.dsb.sr (2600:9000:27a7:2c00:6:36d5:fd00:93a1), 10 hops max, 80 byte packets
+ 1  *
+ 2  *
+ 3  *
+ 4  *
+ 5  *
+ 6  *
+ 7  *
+ 8  *
+ 9  *
+10  *
+
+```
+
+
+## Table of rates
+
+| Currency | Buy Rate | Sell Rate |
+|----------|----------|-----------|
+| USD | 36.91 | 37.66 |
+| EUR | 40.65 | 41.47 |
+| EUR/USD | 1.079 | 1.124 |
