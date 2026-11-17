@@ -7,11 +7,11 @@
 | Bank | USD Buy | USD Sell | EUR Buy | EUR Sell |
 |------|---------|----------|---------|----------|
 | Central Bank | 37.38 | 37.42 | 40.89 | 41.35 |
-| Central Money Exchange | 37.40 | 37.60 | 40.50 | 41.45 |
+| Central Money Exchange | 37.35 | 37.55 | 40.50 | 41.40 |
 | DSB | 36.91 | 37.66 | 40.63 | 41.45 |
-| Finabank | 37.30 | 37.67 | 41.30 | 42.14 |
-| Godo | 37.38 | 37.67 | 41.07 | 42.14 |
-| Hakrinbank | 37.40 | 37.67 | 41.40 | 42.14 |
+| Finabank | 37.30 | 37.64 | 41.30 | 41.87 |
+| Godo | 37.25 | 37.64 | 40.97 | 41.87 |
+| Hakrinbank | 37.35 | 37.64 | 41.15 | 41.87 |
 | VCB Bank | 37.15 | 37.65 | 41.35 | 42.15 |
 
 
@@ -283,17 +283,17 @@
 | Central Bank | EUR | 41.09 | 41.31 | 40.67 |
 | Central Bank | USD | 37.38 | 37.45 | 37.37 |
 | Central Money Exchange | EUR | 40.74 | 41.00 | 40.50 |
-| Central Money Exchange | USD | 37.42 | 37.50 | 37.40 |
-| DSB | EUR | 41.20 | 41.40 | 40.63 |
+| Central Money Exchange | USD | 37.42 | 37.50 | 37.35 |
+| DSB | EUR | 41.19 | 41.40 | 40.63 |
 | DSB | EUR/USD | 1.09 | 1.09 | 1.08 |
 | DSB | USD | 37.05 | 37.15 | 36.91 |
 | Finabank | EUR | 41.51 | 41.75 | 41.30 |
 | Finabank | USD | 37.33 | 37.38 | 37.30 |
-| Godo | EUR | 41.52 | 41.78 | 41.07 |
-| Godo | USD | 37.34 | 37.40 | 37.31 |
-| Hakrinbank | EUR | 41.55 | 41.80 | 41.40 |
+| Godo | EUR | 41.52 | 41.78 | 40.97 |
+| Godo | USD | 37.34 | 37.40 | 37.25 |
+| Hakrinbank | EUR | 41.55 | 41.80 | 41.15 |
 | Hakrinbank | USD | 37.39 | 37.50 | 37.25 |
-| VCB Bank | EUR | 41.52 | 41.65 | 41.35 |
+| VCB Bank | EUR | 41.51 | 41.65 | 41.35 |
 | VCB Bank | USD | 37.27 | 37.35 | 37.15 |
 
 
