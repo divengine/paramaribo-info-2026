@@ -1,0 +1,14 @@
+{
+  "USD": {
+    "buy": "37.40",
+    "sell": "37.60",
+    "updated_on": "2026-11-16",
+    "updated_on_time": "11:13 PM"
+  },
+  "EUR": {
+    "buy": "40.50",
+    "sell": "41.45",
+    "updated_on": "2026-11-16",
+    "updated_on_time": "11:13 PM"
+  }
+}
