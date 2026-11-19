@@ -294,7 +294,7 @@
 | Hakrinbank | EUR | 41.49 | 41.80 | 41.05 |
 | Hakrinbank | USD | 37.38 | 37.50 | 37.25 |
 | VCB Bank | EUR | 41.45 | 41.65 | 40.95 |
-| VCB Bank | USD | 37.25 | 37.35 | 37.05 |
+| VCB Bank | USD | 37.24 | 37.35 | 37.05 |
 
 
 ## About
