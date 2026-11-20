@@ -9,9 +9,9 @@
 | Central Bank | 37.32 | 37.37 | 40.46 | 40.98 |
 | Central Money Exchange | 37.25 | 37.45 | 40.00 | 41.00 |
 | DSB | 36.78 | 37.53 | 40.48 | 41.30 |
-| Finabank | 37.25 | 37.53 | 41.00 | 41.86 |
-| Godo | 37.15 | 37.53 | 41.07 | 41.86 |
-| Hakrinbank | 37.25 | 37.53 | 41.15 | 41.86 |
+| Finabank | 37.25 | 37.54 | 41.00 | 41.86 |
+| Godo | 37.03 | 37.54 | 40.84 | 41.86 |
+| Hakrinbank | 37.25 | 37.54 | 41.15 | 41.86 |
 | VCB Bank | 37.05 | 37.55 | 40.95 | 41.75 |
 
 
@@ -281,7 +281,7 @@
 | Bank | Currency | Average | Maximum | Minimum |
 |------|----------|---------|---------|---------|
 | Central Bank | EUR | 40.97 | 41.31 | 40.08 |
-| Central Bank | USD | 37.38 | 37.45 | 37.26 |
+| Central Bank | USD | 37.37 | 37.45 | 37.26 |
 | Central Money Exchange | EUR | 40.63 | 41.00 | 40.00 |
 | Central Money Exchange | USD | 37.40 | 37.50 | 37.25 |
 | DSB | EUR | 41.06 | 41.40 | 40.48 |
@@ -289,8 +289,8 @@
 | DSB | USD | 37.01 | 37.15 | 36.78 |
 | Finabank | EUR | 41.42 | 41.75 | 41.00 |
 | Finabank | USD | 37.32 | 37.38 | 37.25 |
-| Godo | EUR | 41.42 | 41.78 | 40.97 |
-| Godo | USD | 37.31 | 37.40 | 37.15 |
+| Godo | EUR | 41.42 | 41.78 | 40.84 |
+| Godo | USD | 37.31 | 37.40 | 37.03 |
 | Hakrinbank | EUR | 41.46 | 41.80 | 41.05 |
 | Hakrinbank | USD | 37.37 | 37.50 | 37.25 |
 | VCB Bank | EUR | 41.41 | 41.65 | 40.95 |
