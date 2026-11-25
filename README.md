@@ -282,7 +282,7 @@
 |------|----------|---------|---------|---------|
 | Central Bank | EUR | 40.81 | 41.31 | 40.08 |
 | Central Bank | USD | 37.36 | 37.45 | 37.26 |
-| Central Money Exchange | EUR | 40.54 | 41.00 | 40.00 |
+| Central Money Exchange | EUR | 40.53 | 41.00 | 40.00 |
 | Central Money Exchange | USD | 37.38 | 37.50 | 37.25 |
 | DSB | EUR | 40.91 | 41.40 | 40.46 |
 | DSB | EUR/USD | 1.09 | 1.09 | 1.08 |
@@ -292,7 +292,7 @@
 | Godo | EUR | 41.26 | 41.78 | 40.66 |
 | Godo | USD | 37.25 | 37.40 | 37.03 |
 | Hakrinbank | EUR | 41.36 | 41.80 | 40.95 |
-| Hakrinbank | USD | 37.34 | 37.50 | 37.20 |
+| Hakrinbank | USD | 37.33 | 37.50 | 37.20 |
 | VCB Bank | EUR | 41.34 | 41.65 | 40.85 |
 | VCB Bank | USD | 37.20 | 37.35 | 37.00 |
 
