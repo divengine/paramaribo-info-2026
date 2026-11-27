@@ -282,12 +282,12 @@
 |------|----------|---------|---------|---------|
 | Central Bank | EUR | 40.78 | 41.31 | 40.08 |
 | Central Bank | USD | 37.35 | 37.45 | 37.26 |
-| Central Money Exchange | EUR | 40.51 | 41.00 | 40.00 |
+| Central Money Exchange | EUR | 40.50 | 41.00 | 40.00 |
 | Central Money Exchange | USD | 37.37 | 37.50 | 37.25 |
 | DSB | EUR | 40.87 | 41.40 | 40.46 |
 | DSB | EUR/USD | 1.08 | 1.09 | 1.08 |
 | DSB | USD | 36.95 | 37.15 | 36.78 |
-| Finabank | EUR | 41.23 | 41.75 | 40.60 |
+| Finabank | EUR | 41.22 | 41.75 | 40.60 |
 | Finabank | USD | 37.29 | 37.38 | 37.05 |
 | Godo | EUR | 41.23 | 41.78 | 40.58 |
 | Godo | USD | 37.24 | 37.40 | 37.01 |
