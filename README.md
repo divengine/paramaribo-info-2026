@@ -287,11 +287,11 @@
 | DSB | EUR | 40.85 | 41.40 | 40.46 |
 | DSB | EUR/USD | 1.08 | 1.09 | 1.08 |
 | DSB | USD | 36.95 | 37.15 | 36.78 |
-| Finabank | EUR | 41.20 | 41.75 | 40.60 |
+| Finabank | EUR | 41.19 | 41.75 | 40.60 |
 | Finabank | USD | 37.28 | 37.38 | 37.05 |
 | Godo | EUR | 41.20 | 41.78 | 40.58 |
 | Godo | USD | 37.23 | 37.40 | 37.01 |
-| Hakrinbank | EUR | 41.29 | 41.80 | 40.80 |
+| Hakrinbank | EUR | 41.28 | 41.80 | 40.80 |
 | Hakrinbank | USD | 37.31 | 37.50 | 37.10 |
 | VCB Bank | EUR | 41.26 | 41.65 | 40.85 |
 | VCB Bank | USD | 37.17 | 37.35 | 37.00 |
